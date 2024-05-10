@@ -28,7 +28,6 @@ subscription services, status for the quarter (joined, stayed, or churned), and 
 * POWER BI
 * EXCEL
 # Dashboards (Power BI + Power Query)
-![image](https://github.com/Abdelnaem2002/Churn-Telco-Customers/assets/58599482/01d43f40-6b32-44f5-99c6-ddbfc553b32c)
 ## recommendation
 
 #### Communicate Effectively: Keeping customers informed of changes in the product or service
