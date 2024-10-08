@@ -65,69 +65,58 @@ In this Power BI project, I conducted an in-depth analysis of customer churn for
 - **Revenue Growth**: By addressing high-churn age groups and providing attractive plans based on usage patterns (e.g., data-heavy plans for younger customers), businesses can reduce churn and boost revenue.
 
 
+1. Churn Reasons Breakdown
 
-## Key Business Insights:
+Competitor (841 customers): The largest group of churned customers left due to competitor services, indicating strong competition in the market. This suggests the need for improved competitive strategies like loyalty programs or more competitive pricing.
 
-1. Service Subscription Rates:
+Attitude (314 customers): A significant portion churned due to attitude-related reasons, highlighting potential issues with customer service. The business can benefit by investing in better training for customer service representatives to enhance customer experience.
 
-Phone and Internet services have the highest subscription rates (90.32% and 78.33%, respectively), indicating these are core services.
+Dissatisfaction (303 customers): Customers dissatisfied with the service likely reflect unmet expectations in service quality or product offerings. Addressing customer feedback could reduce churn rates here.
 
-Streaming services like TV (38.44%) and Music (35.33%) are less popular, suggesting potential areas for growth through better packaging or offers.
+Price (211 customers): Price sensitivity is a concern for a portion of customers. Offering flexible pricing models or promotions may help retain this customer segment.
 
-
-
-2. Online and Premium Services:
-
-Services such as Online Backup (34.49%) and Online Security (28.67%) have moderate subscription rates, showing room for improvement, possibly by bundling them with core services.
-
-Premium Support (29.02%) and Device Protection (34.39%) may benefit from clearer communication of their value to customers.
+Other (200 customers): These miscellaneous reasons could be explored further with surveys to gather more specific data and address unanticipated causes.
 
 
+2. Offers & Services Usage
 
-3. Offers Effectiveness:
+Offers Percentages: The majority of churned customers (1.05K) are not subscribed to any offers. This indicates an opportunity to upsell or cross-sell new packages to customers who aren’t engaged with existing offers. For instance, targeted campaigns for Offer E, which has a decent uptake (0.43K), could be expanded.
 
-A large percentage (55.05%) of customers have not subscribed to any offers, and the highest subscribed offer (Offer A) has only 11.70% of the customers.
+Internet Types: Fiber optic is the most popular internet type (1.24K churned customers), suggesting that customers using advanced services might still leave due to other issues, such as service quality or pricing. The business can explore whether competitors are offering better fiber optic packages or consider improving their own service.
 
-This indicates that the company's offers might not be enticing enough or customers may not be fully aware of them. Re-evaluating the offer strategy could boost engagement and retention.
-
-
-
-4. Internet Types:
-
-Cable (43.09%) is the most common internet type, while DSL (23.46%) and Fiber Optic (21.67%) are also significant.
-
-The higher subscription rate for cable internet suggests that customers prefer traditional methods, but there is potential to increase Fiber Optic adoption, which could improve customer satisfaction through faster speeds.
+DSL and Cable Services: Customers using DSL (0.31K) and Cable (0.21K) services churned at lower rates, which may indicate that customers using these lower-tier services are less likely to churn, but possibly due to fewer expectations. There may be room to move these customers to higher-tier services.
 
 
+3. Contract Types
 
-5. Contract Preferences:
+Month-to-Month Contracts (1.66K customers): The majority of churned customers are on month-to-month contracts, indicating higher flexibility but also a greater churn risk. To mitigate this, the business could offer incentives for customers to sign long-term contracts, such as discounts or bundled services.
 
-Month-to-month contracts (51.26%) dominate, which might indicate that customers value flexibility or have concerns about long-term commitments.
-
-This opens up opportunities to introduce incentives for customers to opt for 1-year (22.01%) or 2-year (26.74%) contracts, improving customer retention.
-
+One-Year Contracts (0.17K) & Two-Year Contracts (0.05K): Longer-term contracts have lower churn rates, so encouraging more customers to commit to these types of contracts could help in reducing overall churn. However, it’s also important to ensure that customers perceive value in staying for a longer duration.
 
 
-6. Customer Satisfaction:
+4. Geographical Analysis
 
-Out of the total customers, 1440 are not satisfied, and 2938 are satisfied, with 2665 being neutral.
-
-This shows that while there’s a large number of satisfied customers, focusing on converting the neutral segment to satisfied and reducing dissatisfaction is critical for reducing churn.
+The map visualization shows churned customers concentrated in specific regions. By identifying these churn hotspots, the business can target regional marketing efforts or focus on improving infrastructure and service quality in those areas. This geographical analysis helps in tailoring location-specific strategies.
 
 
+Business Insights & Recommendations:
 
-## Potential Business Actions:
-
-Revamp Offer Strategies: Improve awareness or attractiveness of offers to better engage customers and reduce churn.
-
-Bundle Services: Bundle underutilized services (like Streaming or Online Security) with core services to increase their uptake.
-
-Contract Incentives: Introduce loyalty rewards or discounts for customers who opt for longer contracts to stabilize long-term revenue.
-
-Focus on Satisfaction: Analyze the dissatisfaction drivers and improve customer service, network quality, or pricing structures to lower churn risk.
+1. Focus on Retaining Price-Sensitive Customers: Introduce more affordable pricing plans or discounts for long-term subscriptions to prevent churn driven by price concerns.
 
 
-This dashboard equips decision-makers with clear insights into customer preferences, areas needing improvement, and opportunities to enhance customer retention. These insights are crucial for designing strategies that lower churn and boost customer satisfaction.
+2. Customer Service Enhancement: Address the large portion of customers leaving due to attitude issues. Improved customer service, personalized support, and satisfaction surveys may help mitigate this.
 
+
+3. Competitive Analysis: Since many customers leave for competitors, understanding the competitive landscape is critical. Enhancing value propositions, such as offering superior network coverage, faster internet, or additional perks, could reduce churn.
+
+
+4. Boost Engagement with Offers: The high number of churned customers not subscribed to any offers is a missed opportunity. Introducing personalized offers based on usage data may improve customer engagement.
+
+
+5. Contract Strategy: Increasing the number of customers on one- or two-year contracts by offering additional perks or loyalty rewards can reduce churn significantly.
+
+
+
+By addressing these areas, the telecom business can significantly reduce customer churn, improve customer satisfaction, and enhance long-term profitability.
 
 
